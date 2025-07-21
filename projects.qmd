@@ -1,0 +1,14 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+## 📊 Risk Modeling for Insurance
+
+Developed machine learning models for risk assessment and pricing in the insurance sector, helping improve underwriting decisions and profitability.
+
+## 🔍 Image Compression Research
+
+Research focused on dimensionality reduction and image compression using Principal Component Analysis (PCA) and Discrete Cosine Transform (DCT). Developed efficient approximate transforms for signal processing.

@@ -1,0 +1,44 @@
+---
+title: "CV"
+format: html
+---
+
+# Curriculum Vitae
+
+## 🧑‍💻 Experience
+
+### Data Scientist
+
+**Allianz Seguros** – Rio de Janeiro, Brazil \| 2023 – Present\
+- Worked on risk modeling, pricing models, and claims analysis.\
+- Automated data workflows and improved model deployment processes.
+
+### Researcher (PhD)
+
+**Federal University of Pernambuco (UFPE)** \| 2017 – 2023\
+- Research in signal processing, data compression, and pattern recognition.\
+- Published academic papers and developed algorithms for dimensionality reduction.
+
+## 🎓 Education
+
+-   **PhD in Statistics** – UFPE, Brazil (2022)
+-   **Master’s in Statistics** – UFPE, Brazil (2018)
+-   **Bachelor’s in Statistics** – UFSM, Brazil (2017)
+
+## 🔧 Skills
+
+-   **Languages:** Python, SQL, R
+-   **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch
+
+## 🌐 Languages
+
+-   English (Advanced)
+-   Portuguese (Native)
+
+## 📫 Contact
+
+-   [LinkedIn](https://linkedin.com/in/anabethradunz)
+-   Email: anabethradunz\@gmail.com
+
+You can download my CV here:\
+[Download PDF CV](files/CV-Anabeth-DS.pdf){target="_blank"}

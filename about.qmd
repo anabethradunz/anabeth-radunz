@@ -1,0 +1,36 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+Hello! I’m **Anabeth Radunz**, a Data Scientist passionate about data-driven solutions, statistics, and technology.
+
+I hold a PhD in Statistics, and over the past years, I’ve worked in risk modeling, data science, and research. My expertise includes machine learning, statistical modeling, and signal processng.
+
+I enjoy collaborating with teams, solving challenging problems, and communicating data insights in an accessible way to both technical and non-technical audiences.
+
+## 🧠 Skills & Technologies
+
+-   **Programming:** Python, SQL, R, Matlab
+-   **Data Science:** Machine Learning, Statistical Modeling, Data Visualization
+-   **Cloud & Tools:** Google Cloud (GCP), AWS, Git
+-   **Data Tools:** Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch
+
+## 📚 Education
+
+-   🎓 PhD in Statistics – Federal University of Pernambuco (UFPE)
+-   🎓 Master’s in Statistics – Federal University of Pernambuco (UFPE)
+-   🎓 Bachelor’s in Statistics – Federal University of Santa Maria (UFSM)
+
+## 🌍 Languages
+
+-   English (Advanced)
+-   Portuguese (Native)
+-   French (Basic)
+
+## 📫 Contact
+
+-   [LinkedIn](https://linkedin.com/in/anabethradunz)
+-   Email: anabethradunz\@gmail.com

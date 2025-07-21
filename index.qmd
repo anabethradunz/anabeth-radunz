@@ -1,0 +1,12 @@
+---
+title: "Home"
+format: html
+---
+
+# Welcome! 👋
+
+I'm **Anabeth Radunz**, a Data Scientist with a passion for turning data into meaningful insights.
+
+With a background in Statistics (Bachelor's, Master's, and PhD), I specialize in data analysis, machine learning, and applied research. I enjoy solving complex problems and transforming data into actionable solutions for businesses.
+
+This website is a space where you can learn more about my background, projects, and experience. Feel free to connect!

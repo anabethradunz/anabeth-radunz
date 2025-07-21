@@ -1,0 +1,34 @@
+---
+title: "Publications"
+format: html
+---
+
+# Publications 📚
+
+## Journal Articles
+
+1.  **Anabeth Radunz**, L. Portella, R. S. Oliveira,  F. M. Bayer, R. J. Cintra.\
+    **"Extensions on Low-Complexity DCT Approximations for Larger Blocklengths Based on Minimal Angle Similarity."**\
+    *Journal of Signal Processing Systems*, 2023.\
+    [🔗 Link to publication](https://link.springer.com/article/10.1007/s11265-023-01848-w)
+
+------------------------------------------------------------------------
+
+2.  **Anabeth Radunz**, F. M. Bayer, R. J. Cintra.\
+    **"Low-complexity rounded KLT approximation for image compression."**\
+    *Journal of Real-Time Image Processing*, 2021.\
+    [🔗 Link to publication](https://link.springer.com/article/10.1007/s11554-021-01173-0)
+
+------------------------------------------------------------------------
+
+3.  **Anabeth Radunz**, T. L. T. da Silveira,  F. M. Bayer, R. J. Cintra.\
+    **"Data-independent low-complexity KLT approximations for image and video coding."**\
+    *Signal Processing: Image Communication*, 2022.\
+    [🔗 Link to publication](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002939)
+
+------------------------------------------------------------------------
+
+4.  **Anabeth Radunz**, D. F. G. Coelho, F. M. Bayer, R. J. Cintra, A. Madanayake.\
+    **"Fast data-independent KLT approximations based on integer functions"**\
+    *Multimedia Tools and Applications*, 2024.\
+    [🔗 Link to publication](https://link.springer.com/article/10.1007/s11042-024-18159-2)
