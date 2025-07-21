@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed machine learning models for risk assessment and pricing in the insurance sector, helping improve underwriting decisions and profitability.\n\n\n\nResearch focused on dimensionality reduction and image compression using Principal Component Analysis (PCA) and Discrete Cosine Transform (DCT). Developed efficient approximate transforms for signal processing."
+  },
+  {
+    "objectID": "projects.html#risk-modeling-for-insurance",
+    "href": "projects.html#risk-modeling-for-insurance",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed machine learning models for risk assessment and pricing in the insurance sector, helping improve underwriting decisions and profitability."
+  },
+  {
+    "objectID": "projects.html#image-compression-research",
+    "href": "projects.html#image-compression-research",
+    "title": "Projects",
+    "section": "",
+    "text": "Research focused on dimensionality reduction and image compression using Principal Component Analysis (PCA) and Discrete Cosine Transform (DCT). Developed efficient approximate transforms for signal processing."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Anabeth Radunz, L. Portella, R. S. Oliveira, F. M. Bayer, R. J. Cintra.\n“Extensions on Low-Complexity DCT Approximations for Larger Blocklengths Based on Minimal Angle Similarity.”\nJournal of Signal Processing Systems, 2023.\n🔗 Link to publication\n\n\n\nAnabeth Radunz, F. M. Bayer, R. J. Cintra.\n“Low-complexity rounded KLT approximation for image compression.”\nJournal of Real-Time Image Processing, 2021.\n🔗 Link to publication\n\n\n\nAnabeth Radunz, T. L. T. da Silveira, F. M. Bayer, R. J. Cintra.\n“Data-independent low-complexity KLT approximations for image and video coding.”\nSignal Processing: Image Communication, 2022.\n🔗 Link to publication\n\n\n\nAnabeth Radunz, D. F. G. Coelho, F. M. Bayer, R. J. Cintra, A. Madanayake.\n“Fast data-independent KLT approximations based on integer functions”\nMultimedia Tools and Applications, 2024.\n🔗 Link to publication"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Anabeth Radunz, L. Portella, R. S. Oliveira, F. M. Bayer, R. J. Cintra.\n“Extensions on Low-Complexity DCT Approximations for Larger Blocklengths Based on Minimal Angle Similarity.”\nJournal of Signal Processing Systems, 2023.\n🔗 Link to publication\n\n\n\nAnabeth Radunz, F. M. Bayer, R. J. Cintra.\n“Low-complexity rounded KLT approximation for image compression.”\nJournal of Real-Time Image Processing, 2021.\n🔗 Link to publication\n\n\n\nAnabeth Radunz, T. L. T. da Silveira, F. M. Bayer, R. J. Cintra.\n“Data-independent low-complexity KLT approximations for image and video coding.”\nSignal Processing: Image Communication, 2022.\n🔗 Link to publication\n\n\n\nAnabeth Radunz, D. F. G. Coelho, F. M. Bayer, R. J. Cintra, A. Madanayake.\n“Fast data-independent KLT approximations based on integer functions”\nMultimedia Tools and Applications, 2024.\n🔗 Link to publication"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! 👋\nI’m Anabeth Radunz, a Data Scientist with a passion for turning data into meaningful insights.\nWith a background in Statistics (Bachelor’s, Master’s, and PhD), I specialize in data analysis, machine learning, and applied research. I enjoy solving complex problems and transforming data into actionable solutions for businesses.\nThis website is a space where you can learn more about my background, projects, and experience. Feel free to connect!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I’m Anabeth Radunz, a Data Scientist passionate about data-driven solutions, statistics, and technology.\nI hold a PhD in Statistics, and over the past years, I’ve worked in risk modeling, data science, and research. My expertise includes machine learning, statistical modeling, and signal processng.\nI enjoy collaborating with teams, solving challenging problems, and communicating data insights in an accessible way to both technical and non-technical audiences.\n\n\n\nProgramming: Python, SQL, R, Matlab\nData Science: Machine Learning, Statistical Modeling, Data Visualization\nCloud & Tools: Google Cloud (GCP), AWS, Git\nData Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch\n\n\n\n\n\n🎓 PhD in Statistics – Federal University of Pernambuco (UFPE)\n🎓 Master’s in Statistics – Federal University of Pernambuco (UFPE)\n🎓 Bachelor’s in Statistics – Federal University of Santa Maria (UFSM)\n\n\n\n\n\nEnglish (Advanced)\nPortuguese (Native)\nFrench (Basic)\n\n\n\n\n\nLinkedIn\nEmail: anabethradunz@gmail.com"
+  },
+  {
+    "objectID": "about.html#skills-technologies",
+    "href": "about.html#skills-technologies",
+    "title": "About",
+    "section": "",
+    "text": "Programming: Python, SQL, R, Matlab\nData Science: Machine Learning, Statistical Modeling, Data Visualization\nCloud & Tools: Google Cloud (GCP), AWS, Git\nData Tools: Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "🎓 PhD in Statistics – Federal University of Pernambuco (UFPE)\n🎓 Master’s in Statistics – Federal University of Pernambuco (UFPE)\n🎓 Bachelor’s in Statistics – Federal University of Santa Maria (UFSM)"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About",
+    "section": "",
+    "text": "English (Advanced)\nPortuguese (Native)\nFrench (Basic)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "LinkedIn\nEmail: anabethradunz@gmail.com"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Allianz Seguros – Rio de Janeiro, Brazil | 2023 – Present\n- Worked on risk modeling, pricing models, and claims analysis.\n- Automated data workflows and improved model deployment processes.\n\n\n\nFederal University of Pernambuco (UFPE) | 2017 – 2023\n- Research in signal processing, data compression, and pattern recognition.\n- Published academic papers and developed algorithms for dimensionality reduction.\n\n\n\n\n\nPhD in Statistics – UFPE, Brazil (2022)\nMaster’s in Statistics – UFPE, Brazil (2018)\nBachelor’s in Statistics – UFSM, Brazil (2017)\n\n\n\n\n\nLanguages: Python, SQL, R\nLibraries: Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch\n\n\n\n\n\nEnglish (Advanced)\nPortuguese (Native)\n\n\n\n\n\nLinkedIn\nEmail: anabethradunz@gmail.com\n\nYou can download my CV here:\nDownload PDF CV"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "Allianz Seguros – Rio de Janeiro, Brazil | 2023 – Present\n- Worked on risk modeling, pricing models, and claims analysis.\n- Automated data workflows and improved model deployment processes.\n\n\n\nFederal University of Pernambuco (UFPE) | 2017 – 2023\n- Research in signal processing, data compression, and pattern recognition.\n- Published academic papers and developed algorithms for dimensionality reduction."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "PhD in Statistics – UFPE, Brazil (2022)\nMaster’s in Statistics – UFPE, Brazil (2018)\nBachelor’s in Statistics – UFSM, Brazil (2017)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Languages: Python, SQL, R\nLibraries: Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "",
+    "text": "English (Advanced)\nPortuguese (Native)"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV",
+    "section": "",
+    "text": "LinkedIn\nEmail: anabethradunz@gmail.com\n\nYou can download my CV here:\nDownload PDF CV"
+  }
+]
